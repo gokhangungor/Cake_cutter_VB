@@ -1,0 +1,226 @@
+c:\users\chumaksx\documents\visual studio 2013\Projects\Test_NumReg2\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+c:\Users\chumaksx\Documents\Visual Studio 2013\Projects\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.Resources.resources
+c:\Users\chumaksx\Documents\Visual Studio 2013\Projects\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.Test_NumReg2.resources
+c:\Users\chumaksx\Documents\Visual Studio 2013\Projects\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.GenerateResource.Cache
+c:\Users\chumaksx\Documents\Visual Studio 2013\Projects\Test_NumReg2\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+c:\Users\chumaksx\Documents\Visual Studio 2013\Projects\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+c:\Users\chumaksx\Documents\Visual Studio 2013\Projects\Test_NumReg2\Test_NumReg2\bin\Debug\Test_NumReg2.exe
+c:\Users\chumaksx\Documents\Visual Studio 2013\Projects\Test_NumReg2\Test_NumReg2\bin\Debug\Test_NumReg2.pdb
+c:\Users\chumaksx\Documents\Visual Studio 2013\Projects\Test_NumReg2\Test_NumReg2\bin\Debug\Test_NumReg2.xml
+c:\Users\chumaksx\Documents\Visual Studio 2013\Projects\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+c:\Users\chumaksx\Documents\Visual Studio 2013\Projects\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+c:\Users\chumaksx\Documents\Visual Studio 2013\Projects\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+C:\Users\Hp\Desktop\FanucFilesHome\Test_NumReg2\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+C:\Users\Hp\Desktop\FanucFilesHome\Test_NumReg2\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+C:\Users\Hp\Desktop\FanucFilesHome\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+C:\Users\Hp\Desktop\FanucFilesHome\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+C:\Users\Hp\Desktop\FanucFilesHome\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+C:\Users\Hp\Desktop\FanucFilesHome\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+C:\Users\Hp\Desktop\FanucFilesHome\Test_NumReg2\Test_NumReg2\bin\Debug\Test_NumReg2.exe
+C:\Users\Hp\Desktop\FanucFilesHome\Test_NumReg2\Test_NumReg2\bin\Debug\Test_NumReg2.pdb
+C:\Users\Hp\Desktop\FanucFilesHome\Test_NumReg2\Test_NumReg2\bin\Debug\Test_NumReg2.xml
+C:\Users\Hp\Desktop\FanucFilesHome\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.Resources.resources
+C:\Users\Hp\Desktop\FanucFilesHome\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.Test_NumReg2.resources
+C:\Users\Hp\Desktop\FanucFilesHome\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.GenerateResource.Cache
+I:\ME547\ME547_GulerS\Test_NumReg2\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+I:\ME547\ME547_GulerS\Test_NumReg2\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+I:\ME547\ME547_GulerS\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+I:\ME547\ME547_GulerS\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+I:\ME547\ME547_GulerS\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+I:\ME547\ME547_GulerS\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+I:\ME547\ME547_GulerS\Test_NumReg2\Test_NumReg2\bin\Debug\Test_NumReg2.exe
+I:\ME547\ME547_GulerS\Test_NumReg2\Test_NumReg2\bin\Debug\Test_NumReg2.pdb
+I:\ME547\ME547_GulerS\Test_NumReg2\Test_NumReg2\bin\Debug\Test_NumReg2.xml
+I:\ME547\ME547_GulerS\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.Resources.resources
+I:\ME547\ME547_GulerS\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.Test_NumReg2.resources
+I:\ME547\ME547_GulerS\Test_NumReg2\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.GenerateResource.Cache
+I:\2015_Winter\ME547\FanucFiles\Test_NumReg2 - Copy\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+I:\2015_Winter\ME547\FanucFiles\Test_NumReg2 - Copy\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+I:\2015_Winter\ME547\FanucFiles\Test_NumReg2 - Copy\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+I:\2015_Winter\ME547\FanucFiles\Test_NumReg2 - Copy\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+I:\2015_Winter\ME547\FanucFiles\Test_NumReg2 - Copy\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+I:\2015_Winter\ME547\FanucFiles\Test_NumReg2 - Copy\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+I:\2015_Winter\ME547\FanucFiles\MoveWithReg\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+I:\2015_Winter\ME547\FanucFiles\MoveWithReg\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+I:\2015_Winter\ME547\FanucFiles\MoveWithReg\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+I:\2015_Winter\ME547\FanucFiles\MoveWithReg\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+I:\2015_Winter\ME547\FanucFiles\MoveWithReg\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+I:\2015_Winter\ME547\FanucFiles\MoveWithReg\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+I:\2015_Winter\ME547\FanucFiles\MoveWithReg\Test_NumReg2\bin\Debug\Test_NumReg2.exe
+I:\2015_Winter\ME547\FanucFiles\MoveWithReg\Test_NumReg2\bin\Debug\Test_NumReg2.pdb
+I:\2015_Winter\ME547\FanucFiles\MoveWithReg\Test_NumReg2\bin\Debug\Test_NumReg2.xml
+I:\2015_Winter\ME547\FanucFiles\MoveWithReg\Test_NumReg2\obj\Debug\Test_NumReg2.Resources.resources
+I:\2015_Winter\ME547\FanucFiles\MoveWithReg\Test_NumReg2\obj\Debug\Test_NumReg2.Test_NumReg2.resources
+I:\2015_Winter\ME547\FanucFiles\MoveWithReg\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.GenerateResource.Cache
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_2\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_2\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_2\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_2\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_2\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_2\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_2\Test_NumReg2\bin\Debug\Test_NumReg2.exe
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_2\Test_NumReg2\bin\Debug\Test_NumReg2.pdb
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_2\Test_NumReg2\bin\Debug\Test_NumReg2.xml
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_2\Test_NumReg2\obj\Debug\Test_NumReg2.Resources.resources
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_2\Test_NumReg2\obj\Debug\Test_NumReg2.Test_NumReg2.resources
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_2\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.GenerateResource.Cache
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_3\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_3\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_3\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_3\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_3\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_3\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_3\Test_NumReg2\bin\Debug\Test_NumReg2.exe
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_3\Test_NumReg2\bin\Debug\Test_NumReg2.pdb
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_3\Test_NumReg2\bin\Debug\Test_NumReg2.xml
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_3\Test_NumReg2\obj\Debug\Test_NumReg2.Resources.resources
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_3\Test_NumReg2\obj\Debug\Test_NumReg2.Test_NumReg2.resources
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_3\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.GenerateResource.Cache
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_4\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.pdb
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.xml
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Resources.resources
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Test_NumReg2.resources
+I:\2015_Winter\ME547\FanucFiles\Trials\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\150119\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+C:\Users\Admin\Desktop\150119\MoveWithReg_4\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+C:\Users\Admin\Desktop\150119\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\150119\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+C:\Users\Admin\Desktop\150119\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+C:\Users\Admin\Desktop\150119\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+C:\Users\Admin\Desktop\150119\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe
+C:\Users\Admin\Desktop\150119\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.pdb
+C:\Users\Admin\Desktop\150119\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.xml
+C:\Users\Admin\Desktop\150119\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Resources.resources
+C:\Users\Admin\Desktop\150119\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Test_NumReg2.resources
+C:\Users\Admin\Desktop\150119\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\160105\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+C:\Users\Admin\Desktop\160105\MoveWithReg_4\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+C:\Users\Admin\Desktop\160105\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\160105\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+C:\Users\Admin\Desktop\160105\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+C:\Users\Admin\Desktop\160105\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+C:\Users\Admin\Desktop\160105\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe
+C:\Users\Admin\Desktop\160105\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.pdb
+C:\Users\Admin\Desktop\160105\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.xml
+C:\Users\Admin\Desktop\160105\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Resources.resources
+C:\Users\Admin\Desktop\160105\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Test_NumReg2.resources
+C:\Users\Admin\Desktop\160105\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\160105_FK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+C:\Users\Admin\Desktop\160105_FK\MoveWithReg_4\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+C:\Users\Admin\Desktop\160105_FK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\160105_FK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+C:\Users\Admin\Desktop\160105_FK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+C:\Users\Admin\Desktop\160105_FK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+C:\Users\Admin\Desktop\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+C:\Users\Admin\Desktop\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+C:\Users\Admin\Desktop\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+C:\Users\Admin\Desktop\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+C:\Users\Admin\Desktop\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+C:\Users\Admin\Desktop\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe
+C:\Users\Admin\Desktop\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.pdb
+C:\Users\Admin\Desktop\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.xml
+C:\Users\Admin\Desktop\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Resources.resources
+C:\Users\Admin\Desktop\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Test_NumReg2.resources
+C:\Users\Admin\Desktop\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.pdb
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.xml
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Resources.resources
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Test_NumReg2.resources
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ROBOT_LABS\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+C:\Users\Admin\Desktop\ROBOT_LABS\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+C:\Users\Admin\Desktop\ROBOT_LABS\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\ROBOT_LABS\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+C:\Users\Admin\Desktop\ROBOT_LABS\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+C:\Users\Admin\Desktop\ROBOT_LABS\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy (2) - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy (2) - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy (2) - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy (2) - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy (2) - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+C:\Users\Admin\Desktop\ROBOT_LABS - Copy (2) - Copy\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+E:\SCHOOL\4B\ME 547\Labs\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+E:\SCHOOL\4B\ME 547\Labs\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+E:\SCHOOL\4B\ME 547\Labs\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+E:\SCHOOL\4B\ME 547\Labs\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+E:\SCHOOL\4B\ME 547\Labs\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+E:\SCHOOL\4B\ME 547\Labs\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+E:\SCHOOL\4B\ME 547\Labs\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe
+E:\SCHOOL\4B\ME 547\Labs\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.pdb
+E:\SCHOOL\4B\ME 547\Labs\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.xml
+E:\SCHOOL\4B\ME 547\Labs\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Resources.resources
+E:\SCHOOL\4B\ME 547\Labs\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Test_NumReg2.resources
+E:\SCHOOL\4B\ME 547\Labs\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Group 2\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+C:\Users\Admin\Desktop\Group 2\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+C:\Users\Admin\Desktop\Group 2\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Group 2\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+C:\Users\Admin\Desktop\Group 2\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+C:\Users\Admin\Desktop\Group 2\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+C:\Users\Admin\Desktop\Group 2\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe
+C:\Users\Admin\Desktop\Group 2\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.pdb
+C:\Users\Admin\Desktop\Group 2\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.xml
+C:\Users\Admin\Desktop\Group 2\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Resources.resources
+C:\Users\Admin\Desktop\Group 2\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Test_NumReg2.resources
+C:\Users\Admin\Desktop\Group 2\MR547_FANUC_Code\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe.config
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Interop.FRRobot.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.exe
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.xml
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.pdb
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Resources.resources
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.Test_NumReg2.resources
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.exe
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.pdb
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Test_NumReg2.xml
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Emgu.CV.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Emgu.Util.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Emgu.CV.xml
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\Emgu.Util.xml
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_calib3d240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_contrib240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_core240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_features2d240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_ffmpeg240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_flann240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_gpu240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_highgui240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_imgproc240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_legacy240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_ml240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_nonfree240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_objdetect240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_photo240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_stitching240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_video240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\bin\Debug\opencv_videostab240.dll
+C:\Users\Admin\Desktop\Group 2\160123_IK\MoveWithReg_4\Test_NumReg2\obj\Debug\Test_NumReg2.vbprojResolveAssemblyReference.cache
